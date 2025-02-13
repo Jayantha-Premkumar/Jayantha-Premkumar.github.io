@@ -8,7 +8,7 @@
 - **Tools**: Excel, Jira, Git
 
 ### Portfolio
-Check out my portfolio: [https://username.github.io](https://username.github.io)
+Check out my portfolio: [https://JayanthaPrem.github.io](https://JayanthaPrem.github.io)
 
 ### Projects
 - [Sales Analysis Dashboard](https://github.com/username/sales-analysis)
