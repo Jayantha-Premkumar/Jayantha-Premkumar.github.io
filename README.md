@@ -13,7 +13,9 @@ Check out my portfolio: [https://JayanthaPrem.github.io](https://JayanthaPrem.gi
 ### Projects
 - [Sales Analysis Dashboard](https://github.com/username/sales-analysis)
 - [Customer Feedback Analysis](https://github.com/username/customer-feedback)
+- [Power-BI-Dashboards](https://github.com/username/Power-BI-Dashboards)
+- [SQL-Queries-and-Databases](https://github.com/username/SQL-Queries-and-Databases)
 
 ### Contact
-- Email: premkumarjayantha@gmail.com
+- Email: jayprem54@gmail.com
 - LinkedIn: [Jayantha Premkumar](https://www.linkedin.com/in/jayanthapremkumar)
